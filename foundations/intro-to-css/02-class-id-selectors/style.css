@@ -1,0 +1,19 @@
+#big-blue {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#green-guy {
+    background-color: rgb(130, 255, 113);
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.rose {
+    background-color: rgb(255, 181, 181);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.big {
+    font-size: 24px;
+}
